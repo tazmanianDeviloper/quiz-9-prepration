@@ -1,0 +1,47 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`The Calculator component should run 1`] = `
+[
+  <label>
+    Enter a number: 
+  </label>,
+  <input
+    id="first"
+    onChange={[Function]}
+    type="number"
+    value={0}
+  />,
+  <label>
+    Enter another number: 
+  </label>,
+  <input
+    id="second"
+    onChange={[Function]}
+    type="number"
+    value={0}
+  />,
+  <button
+    onClick={[Function]}
+  >
+    +
+  </button>,
+  <button
+    onClick={[Function]}
+  >
+    -
+  </button>,
+  <button
+    onClick={[Function]}
+  >
+    *
+  </button>,
+  <button
+    onClick={[Function]}
+  >
+    /
+  </button>,
+  <p>
+    Result: 
+  </p>,
+]
+`;
