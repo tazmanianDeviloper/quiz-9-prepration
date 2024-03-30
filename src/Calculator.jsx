@@ -4,7 +4,7 @@ import { useReducer } from "react";
 const initialState = {
     firstNumber: 0,
     secondNumber: 0,
-    sum: 0
+    res: 0
 };
 
 // Reducer function for performing calculations
